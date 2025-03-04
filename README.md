@@ -48,7 +48,7 @@ Create the virtual machine that will act as the domain controller.
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/31d9ad04-5b67-4943-9f17-420546f6e990" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/ab86b7a4-ca2e-4418-b74e-5a436b969e8e" height="80%" width="80%" />
 </p>
 <p>
 Create a 2nd virtual machine to serve as the client.
