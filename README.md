@@ -77,7 +77,7 @@ Inside of RDP on the domain controller virtual machine, we'll disable Windows fi
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/f96b1a19-a5f6-4a8b-9e18-64ac9c0cafbc" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/f96b1a19-a5f6-4a8b-9e18-64ac9c0cafbc" height="80%" width="80%" /> <br /> <br />
 <img src="https://github.com/user-attachments/assets/c0fd3d25-d2bd-4bbe-982b-b1ead1c163fe" height="80%" width="80%" />
 </p>
 <p>
