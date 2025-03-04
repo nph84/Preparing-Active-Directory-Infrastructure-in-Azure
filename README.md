@@ -68,7 +68,7 @@ Set the domain controller's NIC private IP address to be static.
 
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/7e7f5043-4921-43b6-97ae-8ecddfcdbeb7" height="80%" width="80%" />
 </p>
 <p>
 On the domain controller virtual machine, we'll disable Windows firewall for checking connectivity. We will do this by right clicking on the start button and clicking "run". After doing that we will type "wf.msc".
