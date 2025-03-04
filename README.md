@@ -87,7 +87,13 @@ Return to Microsoft Azure and set the client virtual machine's DNS settings to t
 
 
 
-
+<p>
+<img src="https://github.com/user-attachments/assets/bd9ff31c-5189-4ebe-9a81-954c3f316ec1" height="80%" width="80%" />
+</p>
+<p>
+From Microsoft Azure restart the client virtual machine.
+</p>
+<br />
 
 
 
