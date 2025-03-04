@@ -81,7 +81,7 @@ Inside of RDP on the domain controller virtual machine, we'll disable Windows fi
 <img src="https://github.com/user-attachments/assets/c0fd3d25-d2bd-4bbe-982b-b1ead1c163fe" height="80%" width="80%" />
 </p>
 <p>
-Return to Microsoft Azure; set the client virtual machine's DNS settings to the domain controller vm's private IP address.
+Return to Microsoft Azure, and set the client virtual machine's DNS settings to the domain controller vm's private IP address.
 </p>
 <br />
 
