@@ -62,7 +62,7 @@ Create a 2nd virtual machine to serve as the client.
 <img src="https://github.com/user-attachments/assets/bf9686d9-a35d-4139-8aaa-f7df31102263" height="80%" width="80%" />
 </p>
 <p>
-Set the domain controller's NIC private IP address to be static.
+Back on Microsoft Azure, set the domain controller's NIC private IP address to be static.
 </p>
 <br />
 
@@ -71,12 +71,19 @@ Set the domain controller's NIC private IP address to be static.
 <img src="https://github.com/user-attachments/assets/7e7f5043-4921-43b6-97ae-8ecddfcdbeb7" height="80%" width="80%" />
 </p>
 <p>
-On the domain controller virtual machine, we'll disable Windows firewall for checking connectivity. We will do this by right clicking on the start button and clicking "run". After doing that we will type "wf.msc".
+Inside of RDP on the domain controller virtual machine, we'll disable Windows firewall for checking connectivity. We will do this by right clicking on the start button and clicking "run". After doing that we will type "wf.msc".
 </p>
 <br />
 
 
-
+<p>
+<img src="https://github.com/user-attachments/assets/f96b1a19-a5f6-4a8b-9e18-64ac9c0cafbc" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/c0fd3d25-d2bd-4bbe-982b-b1ead1c163fe" height="80%" width="80%" />
+</p>
+<p>
+Return to Microsoft Azure; set the client virtual machine's DNS settings to the domain controller vm's private IP address.
+</p>
+<br />
 
 
 
