@@ -3,7 +3,7 @@
 </p>
 
 <h1>Preparing Active Directory Infrastructure in Azure</h1>
-This tutorial outlines the environmental preparation of Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the environmental preparation of Active Directory within Azure virtual machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
