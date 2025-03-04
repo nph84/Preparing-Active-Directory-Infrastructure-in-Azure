@@ -88,12 +88,30 @@ Return to Microsoft Azure and set the client virtual machine's DNS settings to t
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/bd9ff31c-5189-4ebe-9a81-954c3f316ec1" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/c2c5beec-ddbb-4331-9a22-ef8cacf7d787" height="80%" width="80%" />
 </p>
 <p>
-From Microsoft Azure restart the client virtual machine.
+After logging back into the client virtual machine, open PowerShell and we will ping the domain controller's IP address.
 </p>
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
