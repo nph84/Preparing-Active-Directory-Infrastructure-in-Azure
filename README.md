@@ -57,6 +57,14 @@ Create a 2nd virtual machine to serve as the client.
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/ab86b7a4-ca2e-4418-b74e-5a436b969e8e" height="80%" width="80%" />
+</p>
+<p>
+Set the domain controller's NIC private IP address to be static.
+</p>
+<br />
+
 
 
 
