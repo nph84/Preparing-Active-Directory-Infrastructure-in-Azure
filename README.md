@@ -33,14 +33,45 @@ Create a new resource group to house the virtual machines.
 <img src="https://github.com/user-attachments/assets/6ed05a60-8556-4e44-a6cf-015914d9f096" height="10%" width="50%" />
 </p>
 <p>
-Create a virtual network (you can allow Azure to create it automatically as well)
+Create a virtual network (you can allow Azure to create it automatically as well).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/31d9ad04-5b67-4943-9f17-420546f6e990" height="80%" width="80%" />
 </p>
 <p>
-Create the domain controller
+Create the virtual machine that will act as the domain controller.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/31d9ad04-5b67-4943-9f17-420546f6e990" height="80%" width="80%" />
+</p>
+<p>
+Create a 2nd virtual machine to serve as the client.
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
