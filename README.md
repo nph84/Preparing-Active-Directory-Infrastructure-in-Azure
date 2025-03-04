@@ -97,7 +97,13 @@ After logging back into the client virtual machine, open PowerShell and we will 
 
 
 
-
+<p>
+<img src="https://github.com/user-attachments/assets/7fcbe3bf-b959-43f6-8c7a-07d0edad5cb5" height="80%" width="80%" />
+</p>
+<p>
+Next, type ipconig /all in PowerShell and it should show the domain controller's IP settings
+</p>
+<br />
 
 
 
