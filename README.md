@@ -18,6 +18,11 @@ This tutorial outlines the environmental preparation of Active Directory within 
 - Windows Server 2022
 - Windows 10 (21H2)
 
+<h2>High-Level Deployment and Configuration Steps</h2>
+
+- Set up a domain controller in Microsoft Azure
+- Set up a client PC in Microsoft Azure
+
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
