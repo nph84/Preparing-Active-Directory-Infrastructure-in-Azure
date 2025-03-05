@@ -17,7 +17,6 @@ This tutorial outlines the environmental preparation of Active Directory within 
 
 - Windows Server 2022
 - Windows 10 (21H2)
-- 
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -33,7 +32,7 @@ Create a new resource group to house the virtual machines.
 <img src="https://github.com/user-attachments/assets/6ed05a60-8556-4e44-a6cf-015914d9f096" height="10%" width="50%" />
 </p>
 <p>
-Create a virtual network (you can allow Azure to create it automatically as well).
+Create a virtual network (you can also allow Azure to create it automatically).
 </p>
 <br />
 
