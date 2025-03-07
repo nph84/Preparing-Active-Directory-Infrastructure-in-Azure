@@ -65,7 +65,7 @@ Back on Microsoft Azure, set the domain controller's NIC private IP address to b
 
 
 <p>
-Inside of RDP on the domain controller virtual machine, we'll disable Windows firewall for checking connectivity. We will do this by right clicking on the start button and clicking "run". After doing that we will type "wf.msc". <br /> <br />
+Inside of RDP on the domain controller virtual machine, we'll disable Windows firewall for checking connectivity. We will do this by right-clicking on the start button and clicking "run". After doing that, we will type "wf.msc". <br /> <br />
 <img src="https://github.com/user-attachments/assets/7e7f5043-4921-43b6-97ae-8ecddfcdbeb7" height="80%" width="80%" />
 </p>
 <br />
@@ -81,7 +81,7 @@ Return to Microsoft Azure and set the client virtual machine's DNS settings to t
 
 
 <p>
-After logging back into the client virtual machine, open PowerShell and we will ping the domain controller's IP address. <br /> <br />
+After logging back into the client virtual machine, open PowerShell, and we will ping the domain controller's IP address. <br /> <br />
 <img src="https://github.com/user-attachments/assets/c2c5beec-ddbb-4331-9a22-ef8cacf7d787" height="80%" width="80%" />
 </p>
 <br />
@@ -89,7 +89,7 @@ After logging back into the client virtual machine, open PowerShell and we will 
 
 
 <p>
-Next, type ipconig /all in PowerShell and it should show the domain controller's IP settings. <br /> <br />
+Next, type ipconig /all in PowerShell, and it should show the domain controller's IP settings. <br /> <br />
 <img src="https://github.com/user-attachments/assets/7fcbe3bf-b959-43f6-8c7a-07d0edad5cb5" height="80%" width="80%" />
 </p>
 <br />
